@@ -48,7 +48,7 @@ This repository contains three beginner-friendly JavaScript challenges designed 
 ### Installation
 
 1. Clone this repository:
-   git@github.com:donnyMP8/SA.01-WK1-Code-Challenge.git
+   https://github.com/donnyMP8/SA.01-WK1-Code-Challenge
    git clone <repo-url>
 
 Author & License
