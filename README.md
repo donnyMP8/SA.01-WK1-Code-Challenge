@@ -1,5 +1,3 @@
-# ge
-
 # (Project Name:SA.01-WK1-Code-Challenge )
 
 #### Date, 2025/09/09
